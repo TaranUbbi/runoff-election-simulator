@@ -1,8 +1,5 @@
 # Runoff Voting System
 
-![Runoff Demo](runoff_demo.png)  
-*Terminal demo showing a sample election with multiple candidates and voters.*
-
 ## Overview
 The **Runoff Voting System** simulates a ranked-choice election (instant runoff).  
 Voters rank candidates in order of preference. The program eliminates the lowest-ranked candidates iteratively until a winner emerges with majority support.  
@@ -38,6 +35,9 @@ This project demonstrates:
     ```
 
 3. **Follow prompts** to enter the number of voters and rank each candidate for each voter.
+
+![Runoff Demo](runoff_demo.png)  
+*Terminal demo showing a sample election with multiple candidates and voters.*
 
 ---
 
